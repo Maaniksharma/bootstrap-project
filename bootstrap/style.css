@@ -1,0 +1,25 @@
+body {
+    background-color: hwb(159 91% 1%);
+}
+
+.logo {
+    color: rgba(22, 162, 204, 0.171);
+    font-weight: bolder;
+}
+
+.herocontainer {
+    margin-top: 50px;
+    height: 38px;
+    width:300px;
+}
+
+.hei {
+    margin-top: 50px;
+    height: 38px;
+    width:50px
+}
+.round{
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+
+}
